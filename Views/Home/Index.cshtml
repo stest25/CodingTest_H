@@ -1,0 +1,24 @@
+﻿@model VideoMediaApp.Models.ViewModels.IndexViewModel
+
+@await Html.PartialAsync("_LoadingOverlay")
+@await Html.PartialAsync("_Navigation")
+
+@if (Model.ViewType == "upload")
+{
+    @await Html.PartialAsync("_UploadView")
+}
+else
+{
+    @await Html.PartialAsync("_CatalogueView", Model.Catalogue)
+}
+
+@section Scripts {
+    @if (Model.ViewType == "upload")
+    {
+        <script src="~/js/upload.js" asp-append-version="true"></script>
+    }
+    else
+    {
+        <script src="~/js/video-player.js" asp-append-version="true"></script>
+    }
+}

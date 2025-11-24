@@ -1,0 +1,33 @@
+﻿@model List<VideoFile>
+
+@await Html.PartialAsync("_Navigation")
+
+<h2>Video Catalogue</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>File Name</th>
+            <th>Size (MB)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var video in Model)
+        {
+            <tr onclick="playVideo('@video.FilePath')">
+                <td>@video.FileName</td>
+                <td>@((video.FileSize / (1024.0 * 1024.0)).ToString("F2"))</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<video id="player" width="640" height="360" controls style="display:none;"></video>
+
+<script>
+    function playVideo(path) {
+        const player = document.getElementById('player');
+        player.src = path;
+        player.style.display = 'block';
+        player.play();
+    }
+</script>

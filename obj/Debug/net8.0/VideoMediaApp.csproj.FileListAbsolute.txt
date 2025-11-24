@@ -1,0 +1,66 @@
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.RazorAssemblyInfo.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.RazorAssemblyInfo.cs
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\appsettings.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.staticwebassets.runtime.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.staticwebassets.endpoints.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.exe
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.deps.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.runtimeconfig.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.dll
+C:\Users\Lenovo\source\repos\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.pdb
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\scopedcss\bundle\VideoMediaApp.styles.css
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\scopedcss\projectbundle\VideoMediaApp.bundle.scp.css
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.dll
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\refint\VideoMediaApp.dll
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.pdb
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\VideoMediaApp\obj\Debug\net8.0\ref\VideoMediaApp.dll
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\appsettings.Development.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\appsettings.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.staticwebassets.runtime.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.staticwebassets.endpoints.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.exe
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.deps.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.runtimeconfig.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.dll
+D:\saranya\Job search\HoneyWell\VideoMediaApp\bin\Debug\net8.0\VideoMediaApp.pdb
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.AssemblyInfoInputs.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.AssemblyInfo.cs
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.csproj.CoreCompileInputs.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.MvcApplicationPartsAssemblyInfo.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.RazorAssemblyInfo.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.RazorAssemblyInfo.cs
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\scopedcss\bundle\VideoMediaApp.styles.css
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\scopedcss\projectbundle\VideoMediaApp.bundle.scp.css
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\staticwebassets.development.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.dll
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\refint\VideoMediaApp.dll
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.pdb
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\VideoMediaApp.genruntimeconfig.cache
+D:\saranya\Job search\HoneyWell\VideoMediaApp\obj\Debug\net8.0\ref\VideoMediaApp.dll

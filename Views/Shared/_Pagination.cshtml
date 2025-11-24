@@ -1,0 +1,42 @@
+@model VideoMediaApp.Models.ViewModels.PaginationViewModel
+
+<div class="pagination">
+    @* Previous *@
+  @if (Model.HasPreviousPage)
+    {
+        <form method="get" class="inline">
+   <input type="hidden" name="page" value="@(Model.CurrentPage - 1)" />
+    <button class="page-button">? Previous</button>
+        </form>
+    }
+
+    @* Page Numbers *@
+    @foreach (var i in Model.GetVisiblePageNumbers())
+    {
+        if (i == Model.CurrentPage)
+        {
+   <span class="page-number active">@i</span>
+        }
+     else
+    {
+     <form method="get" class="inline">
+       <input type="hidden" name="page" value="@i" />
+       <button class="page-number">@i</button>
+       </form>
+ }
+
+        @if (Model.ShouldShowEllipsisAfter(i))
+        {
+       <span class="page-ellipsis">...</span>
+    }
+    }
+
+    @* Next *@
+    @if (Model.HasNextPage)
+ {
+        <form method="get" class="inline">
+       <input type="hidden" name="page" value="@(Model.CurrentPage + 1)" />
+            <button class="page-button">Next ?</button>
+ </form>
+    }
+</div>

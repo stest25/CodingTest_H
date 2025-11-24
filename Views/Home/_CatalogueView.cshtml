@@ -1,0 +1,43 @@
+@model VideoMediaApp.Models.ViewModels.CatalogueViewModel
+
+<h2>Video Catalogue</h2>
+
+@if (Model.TotalItems > 0)
+{
+    <div class="catalogue-info">
+        <p>
+            Showing @Model.TotalItems video@(Model.TotalItems == 1 ? "" : "s")
+        </p>
+    </div>
+}
+
+@if (!Model.HasFiles)
+{
+    <p class="empty-message">The catalogue is empty. Use the upload form to add videos.</p>
+}
+else
+{
+    <!-- Video Player Area -->
+    <div class="video-container">
+        <video id="player" width="640" height="360" controls style="display:none;"></video>
+    </div>
+
+    <!-- Video Table -->
+    <table class="table">
+        <thead>
+            <tr>
+                <th>File Name</th>
+                <th>Size (MB)</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var video in Model.Files)
+            {
+                <tr onclick="VideoPlayer.play('@video.FilePath')">
+                    <td>@video.FileName</td>
+                    <td>@((video.FileSize / (1024.0 * 1024.0)).ToString("F2"))</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

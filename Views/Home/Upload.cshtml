@@ -1,0 +1,40 @@
+﻿@{
+    ViewData["Title"] = "Upload Video";
+}
+
+@await Html.PartialAsync("_Navigation")
+
+<h2>Upload Videos</h2>
+
+<form id="uploadForm" enctype="multipart/form-data">
+    <input type="file" name="files" multiple accept=".mp4" />
+    <button type="submit">Upload</button>
+</form>
+
+<div id="message"></div>
+
+<script>
+    const form = document.getElementById('uploadForm');
+    form.addEventListener('submit', async e => {
+        e.preventDefault();
+        const files = form.files.files;
+        if (!files.length) return alert('Select files first!');
+
+        const formData = new FormData();
+        for (const f of files) formData.append('files', f);
+
+        const res = await fetch('/api/upload', {
+            method: 'POST',
+            body: formData
+        });
+
+        if (res.ok) {
+            window.location.href = '/?viewType=catalogue';
+        } else if (res.status === 413) {
+            document.getElementById('message').innerText = 'Error: File size exceeds the 200MB limit.';
+        } else {
+            const text = await res.text();
+            document.getElementById('message').innerText = `Error: ${text}`;
+        }
+    });
+</script>
